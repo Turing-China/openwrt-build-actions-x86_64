@@ -64,6 +64,7 @@ CONFIG_PACKAGE_luci-app-zerotier=y
 CONFIG_PACKAGE_luci-i18n-argon-config-zh-cn=y
 CONFIG_PACKAGE_luci-i18n-zerotier-zh-cn=y
 # CONFIG_PACKAGE_luci-lib-fs is not set
+CONFIG_PACKAGE_luci-ssl-openssl=y
 # CONFIG_PACKAGE_miniupnpd is not set
 # CONFIG_PACKAGE_mosdns is not set
 # CONFIG_PACKAGE_nlbwmon is not set
@@ -82,5 +83,3 @@ CONFIG_boost-compile-visibility-hidden=y
 CONFIG_boost-runtime-shared=y
 CONFIG_boost-static-and-shared-libs=y
 CONFIG_boost-variant-release=y
-# ssl
-CONFIG_PACKAGE_luci-ssl-openssl=y
