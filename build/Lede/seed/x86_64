@@ -82,3 +82,5 @@ CONFIG_boost-compile-visibility-hidden=y
 CONFIG_boost-runtime-shared=y
 CONFIG_boost-static-and-shared-libs=y
 CONFIG_boost-variant-release=y
+# ssl
+CONFIG_PACKAGE_luci-ssl-openssl=y
